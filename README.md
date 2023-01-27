@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently doing a Back-End Developer Bootcamp<br>I am in the sixth semester of my systems engineering degree<br>I am a student of the Oracle ONE project
+I am currently doing a Back-End Developer Bootcamp<br>I am in the sixth semester of my software engineering degree<br>I am a student of the Oracle ONE project
 
 
 ## 🌐 Socials:
