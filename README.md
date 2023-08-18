@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently, I'm focused on back-end java development.<br>I'm in the sixth semester of my software engineering program<br>Oracle ONE project student
+Currently, I'm focused on back-end java development.<br>I'm in the seventh semester of my software engineering program<br>Oracle ONE project student
 
 
 ## 🌐 Socials:
