@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently, I'm focused on back-end java development.<br>I'm in the seventh semester of my software engineering program<br>
+Currently, I'm focused on back-end java development.<br>I'm in the nineth semester of software engineering degree<br>
 
 
 ## 🌐 Socials:
